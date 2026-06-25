@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Le Manuscrit Perdu
+
+This log tracks the cryptographic history and versioning for the song **Le Manuscrit Perdu** (le-manuscrit-perdu).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-26T02:19:46.747136 | `v1` | `1f31922c736dd24073f35ca8a9727dbe01bc4660e0af8784c2e718eba3399cc5` | `9bd3706670edad33d0c574449275d70c8d7b7ef686b6c7de9391f34258da4e6f` | `2026-06-26_le-manuscrit-perdu-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
