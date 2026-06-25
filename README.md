@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/le-manuscrit-perdu/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Le Manuscrit Perdu](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-manuscrit-perdu/) |
+| **Get License** | [License this song: Le Manuscrit Perdu](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-manuscrit-perdu/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit 93851a5cc2e17a8af519322f32a2c414245cd011
+> Ton regard me capte au milieu de la piste
+> Dans cette lumière rouge, mon cœur ne résiste
+> You're the only one, bébé, viens près de moi
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
